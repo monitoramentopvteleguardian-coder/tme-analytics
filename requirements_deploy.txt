@@ -1,0 +1,11 @@
+# Dependências para deploy do TME Analytics no Streamlit Community Cloud
+# Escolha Python 3.12 nas configurações avançadas do deploy.
+streamlit>=1.45,<2
+pandas>=2.2,<3
+numpy>=1.26,<3
+plotly>=6,<7
+SQLAlchemy>=2.0.40,<3
+psycopg[binary]>=3.2.6
+openpyxl>=3.1.5,<4
+xlsxwriter>=3.2,<4
+reportlab>=4.3.1,<5
