@@ -1,8 +1,0 @@
-.streamlit/secrets.toml
-.streamlit/
-.env
-.venv/
-__pycache__/
-*.py[cod]
-tme_analytics.db
-imports/
